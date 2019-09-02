@@ -1,0 +1,133 @@
+{
+  "categories": [
+    {
+      "id": "LSNEoh9hp",
+      "name": "Đồ gia dụng"
+    },
+    {
+      "id": "NCWnMgFkKZ",
+      "name": "Đồ điện tử"
+    },
+    {
+      "id": "2MFoHlwmPc",
+      "name": "Hàng hóa tiêu dùng"
+    }
+  ],
+  "products": [
+    {
+      "id": "WGYzqr81U",
+      "name": "product 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+      "price": "1.56",
+      "cid": "LSNEoh9hp"
+    },
+    {
+      "id": "bA42-7Oce",
+      "name": "product 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+      "price": "7.99",
+      "cid": "LSNEoh9hp"
+    },
+    {
+      "id": "_49oMTwEK",
+      "name": "product 3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+      "price": "10.45",
+      "cid": "LSNEoh9hp"
+    },
+    {
+      "id": "8Dts_7moo",
+      "name": "product 4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+      "price": "15.99",
+      "cid": "LSNEoh9hp"
+    },
+    {
+      "id": "kUoN3IT4m",
+      "name": "product 5",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+      "price": "15.99",
+      "cid": "NCWnMgFkKZ"
+    },
+    {
+      "id": "NhpRZmE8t",
+      "name": "product 6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+      "price": "45.99",
+      "cid": "NCWnMgFkKZ"
+    },
+    {
+      "id": "WjQFIcQwu",
+      "name": "product 7",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+      "price": "99.99",
+      "cid": "NCWnMgFkKZ"
+    },
+    {
+      "id": "SpivHsxuv",
+      "name": "product 8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+      "price": "78.00",
+      "cid": "NCWnMgFkKZ"
+    },
+    {
+      "id": "XzZyiWRof",
+      "name": "product 9",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+      "price": "23.54",
+      "cid": "NCWnMgFkKZ"
+    },
+    {
+      "id": "wK9bU36f2",
+      "name": "product 10",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+      "price": "14.23",
+      "cid": "NCWnMgFkKZ"
+    },
+    {
+      "id": "HqJB818pl",
+      "name": "product 11",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+      "price": "5.56",
+      "cid": "2MFoHlwmPc"
+    },
+    {
+      "id": "eINUJqM9B",
+      "name": "product 12",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+      "price": "8.50",
+      "cid": "2MFoHlwmPc"
+    }
+  ],
+  "users": [
+    {
+      "id": "8Td3uaHHc",
+      "name": "Tèo",
+      "email": "abc@gmail.com",
+      "password": "52717582287467935a81794da36a61f3",
+      "salt": "vpN-L1Uz4",
+      "cart": {
+        "WGYzqr81U": 3,
+        "bA42-7Oce": 2,
+        "_49oMTwEK": 1,
+        "NhpRZmE8t": 1
+      }
+    }
+  ],
+  "sessions": [
+    {
+      "id": "nQKR4hODR"
+    },
+    {
+      "id": "FBO8qWvIC",
+      "cart": {
+        "WGYzqr81U": 2,
+        "bA42-7Oce": 1,
+        "_49oMTwEK": 1,
+        "8Dts_7moo": 1,
+        "kUoN3IT4m": 1,
+        "NhpRZmE8t": 1
+      }
+    }
+  ]
+}
